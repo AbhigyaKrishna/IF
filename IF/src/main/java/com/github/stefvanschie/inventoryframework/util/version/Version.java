@@ -13,6 +13,13 @@ import org.jetbrains.annotations.NotNull;
 public enum Version {
 
     /**
+     * Version 1.8.8
+     *
+     * @since 0.11.0
+     */
+    V1_8_8,
+
+    /**
      * Version 1.14
      *
      * @since 0.10.0
